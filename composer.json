@@ -22,7 +22,7 @@
   },
   "minimum-stability": "dev",
   "scripts": {
-    "post-install-cmd": [
+    "post-autoload-dump": [
       "@php -r \"echo '**Note: After installing, refer to the readme.md file for setup instructions.**\n';\""
     ]
   }
