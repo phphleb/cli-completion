@@ -46,12 +46,3 @@ source /Users/user/web/hleb/vendor/phphleb/cli-completion/bash/hleb2bash.sh
 
 Afterward, restart the terminal or run source ~/.bash_profile or source ~/.bashrc to apply the changes. Autocompletion will be available for all HLEB2-based projects.
 
-# Fish
-
-Autocompletion for the php console command of the framework for the Fish shell.
-
-For the Fish shell on Linux or macOS, you need to add a line to the Fish configuration file located at ~/.config/fish/config.fish. For instance, if the library is installed in a project located at /home/user/web/hleb/, add the following:
-
-```bash
-source /home/user/web/hleb/vendor/phphleb/cli-completion/fish/hleb2fish.sh
-```
