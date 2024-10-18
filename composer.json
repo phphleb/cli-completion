@@ -20,10 +20,5 @@
     "php": ">=8.2.0",
     "phphleb/framework": ">=2.0.27"
   },
-  "minimum-stability": "dev",
-  "scripts": {
-    "post-autoload-dump": [
-      "@php -r \"echo '**Note: After installing, refer to the readme.md file for setup instructions.**\n';\""
-    ]
-  }
+  "minimum-stability": "dev"
 }
