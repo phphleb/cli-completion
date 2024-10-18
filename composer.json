@@ -1,0 +1,24 @@
+{
+  "name": "phphleb/cli-completion",
+  "description": "Setting up CLI autocomplete for PHP Framework HLEB2",
+  "type": "library",
+  "keywords": [
+    "hleb2",
+    "autocomplete",
+    "php",
+    "cli",
+    "console"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Foma Tuturov",
+      "email": "fomiash@yandex.ru"
+    }
+  ],
+  "require": {
+    "php": ">=8.2.0",
+    "phphleb/framework": ">=2.0.27"
+  },
+  "minimum-stability": "dev"
+}
