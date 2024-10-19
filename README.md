@@ -26,15 +26,6 @@ source /home/user/web/hleb/vendor/phphleb/cli-completion/bash/hleb2bash.sh
 
 After adding, restart the terminal or run source ~/.bashrc to apply the changes. Autocompletion will work for all projects based on the HLEB2 framework.
 
-### Windows (Git Bash or Cygwin)
-
-For Windows, if you are using Git Bash or Cygwin, you can add the same line to the ~/.bashrc file located in the user's home directory. For example:
-
-```bash
-source /c/Users/user/web/hleb/vendor/phphleb/cli-completion/bash/hleb2bash.sh
-```
-
-Where /c/Users/user/ is the path to your home directory on Windows. After editing the file, either restart the terminal or run source ~/.bashrc.
 
 ### macOS
 
